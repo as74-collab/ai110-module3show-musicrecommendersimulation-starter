@@ -1,4 +1,4 @@
-# Byte compiled
+# Byte-compiled Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -8,8 +8,13 @@ __pycache__/
 env/
 venv/
 
-# OS files
-.DS_Store
-
-# Pytest cache
+# Test and coverage caches
 .pytest_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

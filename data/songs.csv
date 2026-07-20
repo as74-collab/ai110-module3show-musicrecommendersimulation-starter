@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_year,instrumentalness,speechiness,duration_min,explicit,mood_tags
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,82,2024,0.02,0.05,3.42,false,euphoric|uplifting|bright
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,61,2022,0.74,0.04,2.85,false,dreamy|focused|cozy
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,74,2018,0.01,0.07,3.76,false,aggressive|dramatic|powerful
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,52,2021,0.82,0.03,3.10,false,peaceful|focused|rainy
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,88,2025,0.00,0.08,3.05,false,powerful|motivating|euphoric
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,43,2020,0.91,0.02,5.60,false,dreamy|cosmic|peaceful
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,46,2016,0.22,0.05,4.22,false,warm|nostalgic|cozy
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,68,2019,0.58,0.04,4.08,false,nostalgic|cinematic|night
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,64,2023,0.79,0.03,2.98,false,focused|steady|dreamy
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,71,2024,0.04,0.06,3.54,false,uplifting|romantic|bright
+11,Desert Pulse,Nile Circuit,electronic,euphoric,0.89,128,0.80,0.91,0.12,57,2025,0.31,0.05,4.01,false,euphoric|driving|futuristic
+12,Blue Window,Aster Vale,folk,sad,0.30,76,0.24,0.38,0.94,49,2014,0.07,0.04,3.88,false,melancholic|intimate|nostalgic
+13,Brass Horizon,Southbound Assembly,jazz,energetic,0.73,136,0.72,0.77,0.44,39,2008,0.36,0.06,5.02,false,joyful|bold|improvised
+14,Pixel Hearts,Arcade June,chiptune,happy,0.84,146,0.88,0.85,0.08,55,2021,0.68,0.03,2.74,false,playful|euphoric|retro
+15,Quiet Gravity,Mira Sol,classical,reflective,0.20,58,0.42,0.19,0.97,35,2011,0.96,0.01,6.25,false,peaceful|cinematic|reflective
+16,Concrete Poetry,North Line,hip hop,confident,0.78,96,0.69,0.86,0.14,79,2023,0.00,0.39,3.31,true,bold|confident|urban
+17,Thunder Without Rain,Black Meridian,metal,intense,0.97,168,0.31,0.45,0.03,66,2017,0.00,0.09,4.46,true,aggressive|dark|dramatic
+18,Sunday Hammock,Coral Avenue,reggae,relaxed,0.52,88,0.86,0.81,0.56,58,2015,0.03,0.08,3.67,false,warm|sunny|peaceful
+19,After the Goodbye,Velvet Letters,r&b,sad,0.46,84,0.22,0.64,0.48,76,2022,0.00,0.07,3.92,false,melancholic|romantic|intimate
+20,Mountain Signal,Field Atlas,world,adventurous,0.67,112,0.74,0.69,0.63,31,2004,0.49,0.05,4.73,false,adventurous|organic|uplifting
